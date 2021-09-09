@@ -1,0 +1,235 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Blocks),Outward issue link (Cloners),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Link),Custom field (Epic Name),Custom field (Epic Status),Custom field (Impact),Custom field (Issue color),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field ([CHART] Date of First Response),Status Category
+There should be no special character in the Phone field,RE-47,10054,Bug,To Do,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 3:36 PM,09/Sep/21 3:58 PM,09/Sep/21 3:58 PM,,,0,"The Phone field should not accept Special character
+
+
+
+Step to reproduce
+
+Go to the Application 
+
+Go to Users 
+
+Go to Your Profile
+
+Go to the Contact Info
+
+Verify Phone
+
+
+
+Expected Result
+
+Phone field should not accept special character
+
+
+
+Actual Result
+
+Phone field is accepting special character
+
+!image-20210909-100732.png|width=1518,height=853!",,Simran,6135e05414e8340071d05a66,,,,,,,,,RE-44,,RE-44,,,,,,,,,,,,,,,,,,,,,,,,,09/Sep/21 3:38 PM;ug:48236ea4-5a50-460a-a50b-0842b46e1a68;image-20210909-100732.png;https://corporateola79.atlassian.net/secure/attachment/10009/image-20210909-100732.png,,,,,,{},,,,,,,0|i000b3:,,RE Sprint 1,,,,,,,,To Do
+CLONE - Verify that Admin cannot enter special characters in the Phone field under Contact Info section,RE-46,10053,Test,In Progress,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 3:35 PM,09/Sep/21 3:46 PM,09/Sep/21 3:46 PM,,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000b7:,,RE Sprint 1,,,,,,,,In Progress
+There should be no alphabets in the Phone field,RE-45,10052,Bug,To Do,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 3:30 PM,09/Sep/21 3:58 PM,09/Sep/21 3:57 PM,,,0,"The Phone field should not accept Alphabets
+
+
+
+Step to reproduce
+
+Go to the Application 
+
+Go to Users 
+
+Go to Your Profile
+
+Go to the Contact Info
+
+Verify Phone
+
+
+
+Expected Result
+
+Phone field should not accept alphabets
+
+
+
+Actual Result
+
+Phone field is accepting alphabets
+
+!image-20210909-100232.png|width=1518,height=853!",,Simran,6135e05414e8340071d05a66,,,,,,,,,RE-43,,RE-43,,,,,,,,,,,,,,,,,,,,,,,,,09/Sep/21 3:33 PM;ug:48236ea4-5a50-460a-a50b-0842b46e1a68;image-20210909-100232.png;https://corporateola79.atlassian.net/secure/attachment/10008/image-20210909-100232.png,,,,,,{},,,,,,,0|i000az:,,RE Sprint 1,,,,,,,,To Do
+Verify that Admin cannot enter special characters in the Phone field under Contact Info section,RE-44,10051,Test,Blocked,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 3:25 PM,09/Sep/21 3:46 PM,09/Sep/21 3:33 PM,,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000ar:,,RE Sprint 1,,,,,,,,In Progress
+Verify that Admin cannot enter alphabets in the Phone field under Contact Info section,RE-43,10050,Test,Blocked,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 3:22 PM,09/Sep/21 3:46 PM,09/Sep/21 3:23 PM,,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000aj:,,RE Sprint 1,,,,,,,,In Progress
+Verify if Admin can enter Numeric values in the Phone field under Contact Info section,RE-42,10049,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 3:16 PM,09/Sep/21 3:46 PM,09/Sep/21 3:17 PM,09/Sep/21 3:46 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000ab:,,RE Sprint 1,,,,,,,,Done
+Verify if Admin is able to see the updated email address in the Email field under Contact Info section,RE-41,10048,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 3:13 PM,09/Sep/21 3:46 PM,09/Sep/21 3:13 PM,09/Sep/21 3:46 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i000a3:,,RE Sprint 1,,,,,,,,Done
+Verify if Admin is able to Cancel the verification pop-up in the Email field under Contact Info section,RE-40,10047,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 3:07 PM,09/Sep/21 3:46 PM,09/Sep/21 3:11 PM,09/Sep/21 3:46 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0009v:,,RE Sprint 1,,,,,,,,Done
+Verify if Admin see the verification message to verify the new or changed email address in the Email field under Contact Info section,RE-39,10046,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 3:01 PM,09/Sep/21 3:57 PM,09/Sep/21 3:57 PM,09/Sep/21 3:46 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0009n:,,RE Sprint 1,,,,,,,,Done
+Verify if Admin is entering correct email address in the Email field under Contact Info section,RE-38,10045,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 2:56 PM,09/Sep/21 3:57 PM,09/Sep/21 3:57 PM,09/Sep/21 3:46 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0009f:,,RE Sprint 1,,,,,,,,Done
+Verify if Admin is able to enter email address in the Contact Info field,RE-37,10044,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 2:46 PM,09/Sep/21 3:57 PM,09/Sep/21 3:56 PM,09/Sep/21 3:46 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i00097:,,RE Sprint 1,,,,,,,,Done
+As an Admin I want to check if the Contact Info field is present on the Users[your profile] so that I can add emails and social links in my account,RE-36,10043,Story,In Progress,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 2:21 PM,09/Sep/21 3:46 PM,09/Sep/21 3:50 PM,,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,,RE-1,RE-37,RE-38,RE-39,RE-40,RE-41,RE-42,RE-43,RE-44,RE-46,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0008z:,,RE Sprint 1,,,,,,,,In Progress
+Verify that Admin can select both Firstname and Lastname as Display name publicly in the Name section,RE-35,10042,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 2:02 PM,09/Sep/21 2:38 PM,09/Sep/21 2:02 PM,09/Sep/21 2:38 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0008r:,,RE Sprint 1,,,,,,,,Done
+Verify that Admin can select Lastname as Display name publicly in the Name section,RE-34,10041,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 2:01 PM,09/Sep/21 2:38 PM,09/Sep/21 2:01 PM,09/Sep/21 2:38 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0008j:,,RE Sprint 1,,,,,,,,Done
+Verify that Admin can select Firstname as Display name publicly in the Name section,RE-33,10040,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 1:58 PM,09/Sep/21 2:37 PM,09/Sep/21 1:59 PM,09/Sep/21 2:37 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0008b:,,RE Sprint 1,,,,,,,,Done
+Verify that Admin can select Nickname as Display name publicly in the Name section,RE-32,10039,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 1:56 PM,09/Sep/21 2:37 PM,09/Sep/21 1:57 PM,09/Sep/21 2:37 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i00083:,,RE Sprint 1,,,,,,,,Done
+Verify that Admin can select Username as Display name publicly in the Name section,RE-31,10038,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 1:52 PM,09/Sep/21 2:37 PM,09/Sep/21 1:53 PM,09/Sep/21 2:37 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0007v:,,RE Sprint 1,,,,,,,,Done
+Verify that Admin can see Display name publicly in the Name section,RE-30,10037,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 1:01 PM,09/Sep/21 2:37 PM,09/Sep/21 1:53 PM,09/Sep/21 2:37 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0007n:,,RE Sprint 1,,,,,,,,Done
+Verify that Admin can see Display name publicly field in the Name section,RE-29,10036,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 12:53 PM,09/Sep/21 2:37 PM,09/Sep/21 1:51 PM,09/Sep/21 2:37 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0007f:,,RE Sprint 1,,,,,,,,Done
+There should be no special character in the Nickname field,RE-28,10035,Bug,To Do,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 12:46 PM,09/Sep/21 3:29 PM,09/Sep/21 3:26 PM,,,0,"The Nickname field should not accept special character
+
+
+
+Step to reproduce
+
+Go to the Application 
+
+Go to Users 
+
+Go to Your Profile
+
+Verify Nickname
+
+
+
+Expected Result
+
+Nickname field should not accept special character
+
+
+
+Actual Result
+
+Nickname field is accepting special character
+
+!image-20210909-095848.png|width=1518,height=853!",,Simran,6135e05414e8340071d05a66,,,,,,,,,RE-26,,RE-26,,,,,,,,,,,,,,,,,,,,,,,,,09/Sep/21 3:29 PM;ug:48236ea4-5a50-460a-a50b-0842b46e1a68;image-20210909-095848.png;https://corporateola79.atlassian.net/secure/attachment/10007/image-20210909-095848.png,,,,,,{},,,,,,,0|i00077:,,RE Sprint 1,,,,,,,,To Do
+Verify that Admin cannot leave Nickname field NULL in the Name section,RE-27,10034,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 12:45 PM,09/Sep/21 2:37 PM,09/Sep/21 2:36 PM,09/Sep/21 2:37 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0006z:,,RE Sprint 1,,,,,,,,Done
+Verify that Admin cannot enter special character in Nickname field in the Name section,RE-26,10033,Test,Blocked,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 12:44 PM,09/Sep/21 2:35 PM,09/Sep/21 12:44 PM,,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0006r:,,RE Sprint 1,,,,,,,,In Progress
+Verify if Admin can enter numeric  values in Nickname field in the Name section,RE-25,10032,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 12:41 PM,09/Sep/21 2:37 PM,09/Sep/21 12:41 PM,09/Sep/21 2:37 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0006j:,,RE Sprint 1,,,,,,,,Done
+Verify if Admin can enter alphabets in Nickname field in the Name section,RE-24,10031,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 12:37 PM,09/Sep/21 2:37 PM,09/Sep/21 12:38 PM,09/Sep/21 2:37 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0006b:,,RE Sprint 1,,,,,,,,Done
+The Firstname field should not contain NULL values,RE-23,10030,Bug,To Do,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 12:32 PM,09/Sep/21 3:56 PM,09/Sep/21 4:50 PM,,,0,"The Firstname field should not accept the NULL values
+
+
+
+Step to reproduce
+
+Go to the Application 
+
+Go to Users 
+
+Go to Your Profile
+
+Verify Firstname
+
+
+
+Expected Result
+
+Firstname field should not accept NULL values
+
+
+
+Actual Result
+
+Firstname field is accepting NULL values
+
+!image-20210909-070432.png|width=1518,height=853!",,Simran,6135e05414e8340071d05a66,,,,,,,,,,,RE-20,,,,,,,,,,,,,,,,,,,,,,,,,09/Sep/21 12:34 PM;ug:48236ea4-5a50-460a-a50b-0842b46e1a68;image-20210909-070432.png;https://corporateola79.atlassian.net/secure/attachment/10005/image-20210909-070432.png,,,,,,{},,,,,,,0|i0008f:,,RE Sprint 1,,,,,,,,To Do
+Verify if Admin can see Nickname field in the Name section,RE-22,10029,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 12:31 PM,09/Sep/21 2:37 PM,09/Sep/21 12:35 PM,09/Sep/21 2:37 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0005v:,,RE Sprint 1,,,,,,,,Done
+The Lastname field cannot be left NULL,RE-21,10028,Bug,To Do,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 11:24 AM,09/Sep/21 3:56 PM,09/Sep/21 3:56 PM,,,0,"The Lastname field should not accept the NULL values
+
+
+
+Step to reproduce
+
+Go to the Application 
+
+Go to Users 
+
+Go to Your Profile
+
+Verify Lastname
+
+
+
+Expected Result
+
+Lastname field should not accept NULL values
+
+
+
+Actual Result
+
+Lastname field is accepting NULL values
+
+!image-20210909-062913.png|width=1518,height=853!",,Simran,6135e05414e8340071d05a66,,,,,,,,,,,RE-19,,,,,,,,,,,,,,,,,,,,,,,,,09/Sep/21 11:59 AM;ug:48236ea4-5a50-460a-a50b-0842b46e1a68;image-20210909-062913.png;https://corporateola79.atlassian.net/secure/attachment/10004/image-20210909-062913.png,,,,,,{},,,,,,,0|i0005n:,,RE Sprint 1,,,,,,,,To Do
+Verify that Admin cannot leave Firstname field NULL in the Name section,RE-20,10027,Test,Blocked,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 11:24 AM,09/Sep/21 2:37 PM,09/Sep/21 12:31 PM,,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0005f:,,RE Sprint 1,,,,,,,,In Progress
+Verify that Admin cannot leave Lastname field NULL the Name section,RE-19,10026,Test,Blocked,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 10:10 AM,09/Sep/21 3:55 PM,09/Sep/21 3:55 PM,,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i00057:,,RE Sprint 1,,,,,,,,In Progress
+There should be no special characters in the Lastname field,RE-18,10025,Bug,To Do,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 9:50 AM,09/Sep/21 3:56 PM,09/Sep/21 3:55 PM,,,0,"There should be no special character in the Lastname field
+
+
+
+Step to reproduce
+
+Go to the Application 
+
+Go to Users 
+
+Go to Your Profile
+
+Verify Lastname
+
+
+
+Expected Result
+
+Lastname field should not accept special character
+
+
+
+Actual Result
+
+Lastname field is accepting special character
+
+There should be no special character in the Lastname field
+
+!image-20210909-042350.png|width=1518,height=853!",,Simran,6135e05414e8340071d05a66,,,,,,,,,RE-17,,RE-17,,,,,,,,,,,,,,,,,,,,,,,,,09/Sep/21 9:55 AM;ug:48236ea4-5a50-460a-a50b-0842b46e1a68;image-20210909-042350.png;https://corporateola79.atlassian.net/secure/attachment/10001/image-20210909-042350.png,,,,,,{},,,,,,,0|i0005j:,,RE Sprint 1,,,,,,,,To Do
+Verify if Admin cannot add special characters in Lastname field in the Name section,RE-17,10024,Test,Blocked,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 9:42 AM,09/Sep/21 3:55 PM,09/Sep/21 3:55 PM,,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0004r:,,RE Sprint 1,,,,,,,,In Progress
+Verify if Admin is able to add Numeric values in Lastname field in the Name section,RE-16,10023,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 9:40 AM,09/Sep/21 3:55 PM,09/Sep/21 3:55 PM,09/Sep/21 2:36 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0004j:,,RE Sprint 1,,,,,,,,Done
+Verify if Admin is able to add alphabets in Lastname field in the Name section,RE-15,10022,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,09/Sep/21 9:37 AM,09/Sep/21 3:55 PM,09/Sep/21 3:55 PM,09/Sep/21 2:36 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0004b:,,RE Sprint 1,,,,,,,,Done
+There should be no special character in the First Name field,RE-14,10021,Bug,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,08/Sep/21 4:02 PM,09/Sep/21 3:54 PM,09/Sep/21 3:54 PM,09/Sep/21 2:23 PM,,0,"There should be no special character in the Firstname field
+
+
+
+Step to reproduce
+
+Go to the Application 
+
+Go to Users 
+
+Go to Your Profile
+
+Verify Firstname
+
+
+
+Expected Result
+
+Firstname field should not accept special character
+
+
+
+Actual Result
+
+Firstname field is accepting special character
+
+!image-20210909-062454.png|width=1518,height=853!",,Simran,6135e05414e8340071d05a66,,,,,,,,,RE-12,,RE-12,,,,,,,,,,,,,,,,,,,,,,,,,09/Sep/21 11:55 AM;ug:48236ea4-5a50-460a-a50b-0842b46e1a68;image-20210909-062454.png;https://corporateola79.atlassian.net/secure/attachment/10003/image-20210909-062454.png,,,,,,{},,,,,,,0|i0003r:,,RE Sprint 1,,,,,,,,Done
+Verify if Admin is able to see Lastname field in the Name section,RE-13,10020,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,08/Sep/21 4:01 PM,09/Sep/21 3:54 PM,09/Sep/21 3:54 PM,09/Sep/21 2:36 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0003v:,,RE Sprint 1,,,,,,,,Done
+Verify that Admin cannot add special character in Firstname field in the Name section,RE-12,10019,Test,Blocked,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,08/Sep/21 3:58 PM,09/Sep/21 3:54 PM,09/Sep/21 3:53 PM,,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0003n:,,RE Sprint 1,,,,,,,,In Progress
+Verify if Admin is able to add numeric values in Firstname field in the Name section or not,RE-11,10018,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,08/Sep/21 3:54 PM,09/Sep/21 3:53 PM,09/Sep/21 3:53 PM,09/Sep/21 2:35 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0003f:,,RE Sprint 1,,,,,,,,Done
+Verify if Admin is able to add alphabets in Firstname field in the Name section or not,RE-10,10017,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,08/Sep/21 3:51 PM,09/Sep/21 3:53 PM,09/Sep/21 3:53 PM,09/Sep/21 2:35 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i00037:,,RE Sprint 1,,,,,,,,Done
+Verify if Admin is able to see Firstname field in the Name section or not,RE-9,10016,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,08/Sep/21 3:45 PM,09/Sep/21 3:53 PM,09/Sep/21 4:48 PM,09/Sep/21 2:35 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002z:,,RE Sprint 1,,,,,,,,Done
+Verify if Admin is able to see Username field in the Name section or not,RE-8,10015,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,08/Sep/21 3:38 PM,09/Sep/21 3:52 PM,09/Sep/21 3:52 PM,09/Sep/21 2:35 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002r:,,RE Sprint 1,,,,,,,,Done
+Verify if Admin is not able to change Username field under the Name.,RE-7,10014,Test,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,08/Sep/21 3:34 PM,09/Sep/21 3:52 PM,09/Sep/21 3:51 PM,09/Sep/21 2:35 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0002j:,,RE Sprint 1,,,,,,,,Done
+As an Admin I want to check if the Name field is present on the Users[your profile] so that I can add name and password to the account,RE-5,10012,Story,Done,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,Done,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,08/Sep/21 3:23 PM,09/Sep/21 2:42 PM,09/Sep/21 4:47 PM,09/Sep/21 2:42 PM,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,,RE-7,RE-8,RE-9,RE-10,RE-11,RE-12,RE-13,RE-15,RE-16,RE-17,RE-19,RE-20,RE-22,RE-24,RE-25,RE-26,RE-27,RE-29,RE-30,RE-31,RE-32,RE-33,RE-34,RE-35,RE-1,,,,,,,{},,,,,,,0|i0001s:,,RE Sprint 1,,,,,,,,Done
+Verify if the Visual Editor is present on the Personal Options or not,RE-4,10011,Test,To Do,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,08/Sep/21 3:16 PM,09/Sep/21 3:51 PM,09/Sep/21 3:51 PM,,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,RE-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i00023:,,RE Sprint 1,,,,,,,,To Do
+Verify if the Personal Option is present on the profile page or not,RE-3,10010,Test,To Do,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,08/Sep/21 3:06 PM,09/Sep/21 3:51 PM,09/Sep/21 3:51 PM,,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0001v:,,RE Sprint 1,,,,,,,,To Do
+As an Admin I want to check if personal option is present and working so that I can personalise my profile,RE-2,10009,Story,In Progress,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,08/Sep/21 3:03 PM,09/Sep/21 2:42 PM,08/Sep/21 3:04 PM,,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,,RE-3,RE-4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,0|i0001r:i,,RE Sprint 1,,,,,,,,In Progress
+Users,RE-1,10008,Epic,In Progress,RE,Real Estate,software,Simran,6135e05414e8340071d05a66,,Medium,,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,Simran,6135e05414e8340071d05a66,08/Sep/21 3:01 PM,09/Sep/21 4:47 PM,09/Sep/21 4:46 PM,,,0,,,Simran,6135e05414e8340071d05a66,,,,,,,,,,,RE-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},ghx-label-9,,Users[Your Profile],To Do,,,0|i0001r:,,RE Sprint 1,,,,,,,,In Progress
